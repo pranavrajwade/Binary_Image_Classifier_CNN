@@ -54,3 +54,7 @@ In this notebook we are using a subset CIFAR100 dataset, to create a a binary cl
 
 
 - Dropout: Randomly drop units (along with their connections) from the neural network during training. The reduction in number of         parameters in each step of training has effect of regularization, preventing overfitting.
+
+
+### Predictions
+
