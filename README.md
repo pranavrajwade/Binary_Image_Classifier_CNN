@@ -12,7 +12,8 @@ In this notebook we are using a subset CIFAR100 dataset, to create a a binary cl
 - Prediction
 
 ### Downloading the data
-
+- CIFAR-100 has 100 classes containing 600 images each. There are 500 training images and 100 testing images per class. The 100 classes   in the CIFAR-100 are grouped into 20 superclasses.
+- 
 
 
 ### Exploring and Preprocessing
@@ -57,4 +58,4 @@ In this notebook we are using a subset CIFAR100 dataset, to create a a binary cl
 
 
 ### Predictions
-
+![alt text](https://github.com/pranavrajwade/Binary_Image_Classifier_CNN/blob/master/predictions.png)
